@@ -1,0 +1,13 @@
+Hindi Positional Inverted Index - Sample Output
+===============================================
+Loaded 100 Hindi documents
+Indexed 1953 unique terms
+Positional index saved to output\positional_index.json
+
+Phrase query: शिक्षा में तकनीक
+Result: []
+
+Proximity query: शिक्षा, तकनीक, distance=5
+Result: []
+
+The complete positional index is stored in output/positional_index.json.
