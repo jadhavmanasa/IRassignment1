@@ -8,9 +8,7 @@ This Information Retrieval mini-project builds a positional inverted index for H
 
 The main dataset is `dataset/hindi_documents_100.json`, containing 100 documents downloaded from the Hindi portion of the MIRACL corpus. Each document has a `docid` and a `text` field.
 
-The downloader writes to this file and does not overwrite any other dataset file. The original sample dataset is not included in this project archive.
-
-Dataset source: [MIRACL corpus on Hugging Face](https://huggingface.co/datasets/miracl/miracl-corpus). Check the dataset's current licence and citation instructions before redistributing the dataset or submitting it.
+Dataset source: [MIRACL corpus on Hugging Face](https://huggingface.co/datasets/miracl/miracl-corpus). 
 
 ## How the index works
 
