@@ -109,10 +109,3 @@ The tests use a small in-memory sample collection to check tokenization, term lo
 ## Sample run
 
 The included sample output was generated using the bundled 100-document dataset. It reported 100 documents and 1,953 unique terms. Exact query results depend on the dataset contents.
-
-## Before submission
-
-1. Run the program and tests.
-2. Explain how terms map to document IDs and token positions.
-3. Explain how phrase search checks consecutive positions and how proximity search checks distance.
-4. Cite the MIRACL corpus and follow your course's rules for attribution and AI assistance.
